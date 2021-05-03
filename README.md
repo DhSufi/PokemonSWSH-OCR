@@ -1,0 +1,2 @@
+# PokemonSWSH-OCR
+Pokemon Recognition
