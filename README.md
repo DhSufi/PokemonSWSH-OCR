@@ -1,2 +1,2 @@
 # PokemonSWSH-OCR
-Pokemon Recognition
+Recognizes the Pokemon text in VGC battles
